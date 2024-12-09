@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const host = "http://www.omdbapi.com/?apikey=d52c62c3&";
+const host = "https://www.omdbapi.com/?apikey=d52c62c3&";
 
 export async function ApiFunction(url: string, data: {}, method: 'get' | 'post')  {
         try {
