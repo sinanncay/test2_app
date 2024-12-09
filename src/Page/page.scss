@@ -1,0 +1,15 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #000000;
+
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+    font-size: large;
+}
+
+.sizegrid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}

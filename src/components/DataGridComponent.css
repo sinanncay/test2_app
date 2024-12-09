@@ -1,0 +1,15 @@
+.divLeft {
+  display: flex;
+  align-items: start;
+}
+
+.divRight {
+  display: flex;
+  align-items: flex-end;
+}
+
+.buttonGridStyles {
+  justify-content: "flex-end !important";
+}
+
+/*# sourceMappingURL=DataGridComponent.css.map */

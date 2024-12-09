@@ -1,0 +1,14 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #000000;
+  font-size: large;
+}
+
+.sizegrid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+/*# sourceMappingURL=page.css.map */
